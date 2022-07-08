@@ -54,6 +54,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshvardhan2804&theme=dark&background=000000)](https://git.io/streak-stats)
 
+## Note- Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan2804&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
