@@ -19,7 +19,7 @@
 
 <h1 align="center" >
   hey there , I am Harshvardhan 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5 px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="45px">
 </h1>
 
 <div align="center">
