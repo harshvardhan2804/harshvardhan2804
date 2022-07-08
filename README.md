@@ -18,8 +18,8 @@
 ![](https://komarev.com/ghpvc/?harshvardhan2804&color=green)
 
 <h1 align="center" >
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+  hey there , I am Harshvardhan 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5 px"/>
 </h1>
 
 <div align="center">
